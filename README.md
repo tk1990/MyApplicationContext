@@ -1,0 +1,2 @@
+# MyApplicationContext
+ApplicationContextAware study
